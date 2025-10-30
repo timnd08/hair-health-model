@@ -1,8 +1,11 @@
 # hair-health-model
 Group members: 
 Tingnan Bi
+
 Mahta Mohammadzadeh
+
 Hooman Katebpourshahidi
+
 Timothy Nguyen
 
 Link to the dataset: https://www.kaggle.com/datasets/amitvkulkarni/hair-health
