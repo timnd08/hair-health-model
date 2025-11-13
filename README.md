@@ -6,7 +6,7 @@ Mahta Mohammadzadeh
 
 Hooman Katebpourshahidi
 
-Timothy Nguyen
+Tim Nguyen
 
 Link to the dataset: https://www.kaggle.com/datasets/amitvkulkarni/hair-health
 
